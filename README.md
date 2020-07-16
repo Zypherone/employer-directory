@@ -18,10 +18,10 @@ An employee or manager would benefit greatly from being able to view non-sensiti
 
 #### Table of Contents
 - [Screenshots](#Screenshots)
+- [Demo](#Demo)
 - [Built With](#Built_With)
 - [Code Style](#Code_Style)
 - [Installation](#Installation)
-- [Demo](#Demo)
 - [Usage](#Usage)
 - [Credits](#Credits)
 - [Contributing](#Contributing)
@@ -33,6 +33,10 @@ An employee or manager would benefit greatly from being able to view non-sensiti
 |Screenshot One|Screenshot Two|Screenshot Three|
 |----|----|----|
 |<img src="screenshots/screenshot1.jpg">|<img src="screenshots/screenshot2.jpg">|<img src="screenshots/screenshot3.jpg">|
+
+## Demo
+
+Click https://zypherone-19-react.herokuapp.com/ to visit a live demo.
 
 ## Built with
 - [React.js](https://reactjs.org/))
@@ -85,10 +89,6 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
-
-## Demo
-
-Click https://zypherone-19-react.herokuapp.com/ to visit a live demo.
 
 ## Usage 
 The primary purpose of this was to meet the requirements of a homework assignment. The major goal is to create a employee directory with React. This assignment will require me to break up the application's UI into components, manage component state, and respond to user events.
