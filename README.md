@@ -1,8 +1,51 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[contributors-shield]: https://img.shields.io/github/contributors/Zypherone/employer-directory.svg?style=flat-square
+[contributors-url]: https://github.com/Zypherone/employer-directory/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Zypherone/employer-directory.svg?style=flat-square
+[forks-url]: https://github.com/Zypherone/employer-directory/network/members
+[stars-shield]: https://img.shields.io/github/stars/Zypherone/employer-directory.svg?style=flat-square
+[stars-url]: https://github.com/Zypherone/employer-directory/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Zypherone/employer-directory.svg?style=flat-square
+[issues-url]: https://github.com/Zypherone/employer-directory/issues
+[build-style-shield]: https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat
+[build-style-url]: https://github.com/feross/standard
+[license-shield]: https://img.shields.io/github/license/Zypherone/employer-directory.svg?style=flat-square
+[license-url]: http://choosealicense.com/licenses/mit/
 
-## Available Scripts
+[![Contributors][contributors-shield]][contributors-url] [![Forks][forks-shield]][forks-url] [![Stargazers][stars-shield]][stars-url] [![Issues][issues-shield]][issues-url] [![JS Standard][build-style-shield]][build-style-url] [![MIT License][license-shield]][license-url]
 
-In the project directory, you can run:
+# Unit 19 React Homework: Employee Directory
+An employee or manager would benefit greatly from being able to view non-sensitive data about other employees. It would be particularly helpful to be able to filter employees by name.
+
+#### Table of Contents
+- [Screenshots](#Screenshots)
+- [Built With](#Built_With)
+- [Code Style](#Code_Style)
+- [Installation](#Installation)
+- [Demo](#Demo)
+- [Usage](#Usage)
+- [Credits](#Credits)
+- [Contributing](#Contributing)
+- [License](#License)
+
+---
+
+## Screenshots
+|Screenshot One|Screenshot Two|Screenshot Three|
+|----|----|----|
+|<img src="screenshots/screenshot1.jpg">|<img src="screenshots/screenshot2.jpg">|<img src="screenshots/screenshot3.jpg">|
+
+## Built with
+- [React.js](https://reactjs.org/))
+- [normalize.css](http://necolas.github.io/normalize.css/)
+
+## Code style
+[![JS Standard][build-style-shield]][build-style-url] - https://github.com/standard/standard
+
+---
+
+## Installation
+
+Download (and unpack) or clone the repo. In the project directory, you can run:
 
 ### `npm start`
 
@@ -37,32 +80,26 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+### Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+## Demo
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+Click https://zypherone-19-react.herokuapp.com/ to visit a live demo.
 
-### Analyzing the Bundle Size
+## Usage 
+The primary purpose of this was to meet the requirements of a homework assignment. The major goal is to create a employee directory with React. This assignment will require me to break up the application's UI into components, manage component state, and respond to user events.
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+## Credits 
+I created this code based on the homework prompt created by Triology Education Services. Certain pieces of code I used online resources for help. 
 
-### Making a Progressive Web App
+## Contributing 
+I was the only one to work on this project, but of course I had help from my instructor, TA's, and classmates.
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+## License
+| Details | Author |
+|---|---|
+|This project is licensed under the MIT License - see [choosealicense.com](http://choosealicense.com/licenses/mit/) for more details.<br />A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.<br /><br />[![License](https://img.shields.io/badge/License-MIT-blue.svg)](http://choosealicense.com/licenses/mit/) [![ZypherZypherone](https://img.shields.io/badge/2020_%C2%A9-zypherone-blue)](zypherone@github.com)| <img src="https://avatars1.githubusercontent.com/u/360494?v=" width="250"> |
