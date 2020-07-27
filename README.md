@@ -36,10 +36,12 @@ An employee or manager would benefit greatly from being able to view non-sensiti
 
 ## Demo
 
-Click https://zypherone-19-react.herokuapp.com/ to visit a live demo.
+Click http://employee-directory.danutuckersaunders.name/ to visit a live demo.
 
 ## Built with
 - [React.js](https://reactjs.org/))
+- [Bootstrap](https://getbootstrap.com/)
+- [React Bootstrap](https://react-bootstrap.github.io/)
 - [normalize.css](http://necolas.github.io/normalize.css/)
 
 ## Code style
