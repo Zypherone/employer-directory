@@ -1,19 +1,23 @@
 import React from 'react';
-import "../styles/Search.css";
+import { Button, Form, FormControl, InputGroup, Container } from 'react-bootstrap'
 
 function Search({ handleSearchChange }) {
   return (
-    <div className="searchBox" id="search">
-      <form className="form-inline">
-        <input
-        className="form-control"
-        type="search"
-        placeholder="Search"
-        aria-label="Search"
-        onChange={event => handleSearchChange(event)}
-        />
-      </form>
-    </div>
+    <>
+      <Form>
+        <InputGroup className="mb-3">
+          <FormControl
+            id="search"
+            placeholder="Search by first or last name..."
+            aria-label="Search by first or last name..."
+            onChange={event => handleSearchChange(event)}
+          />
+          <InputGroup.Append>
+            <Button variant="outline-secondary">Search</Button>
+          </InputGroup.Append>
+        </InputGroup>
+      </Form>
+    </>
   );
 }
 

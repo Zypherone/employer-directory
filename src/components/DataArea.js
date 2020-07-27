@@ -78,6 +78,9 @@ export default class DataArea extends Component {
       filteredUsers: sortedUsers,
       headings: updatedHeadings
     });
+
+    
+
   }
 
   handleSearchChange = event => {

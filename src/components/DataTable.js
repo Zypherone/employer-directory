@@ -23,7 +23,7 @@ function DataTable({ headings, users, handleSort }) {
                   }}
                 >
                   {name}
-
+                  <span></span>
                 </th>
               );
             })}

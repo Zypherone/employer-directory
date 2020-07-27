@@ -1,3 +1,20 @@
 table {
   width: 100%;
 }
+
+th:not(:first-child) {
+  cursor: pointer;
+  text-transform: uppercase;
+}
+
+th:not(:first-child) span:after {
+  font-size: 80%;
+  content: "";
+  margin-right: 18px;
+}
+
+th:not(:first-child):hover span:after {
+  font-size: 80%;
+  content: "🔻";
+  margin-right: 0;
+}
